@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1611095937",layout:"default",error:a,state:{user:{},interlocutors:[{name:"Common Room",show:b,messages:[]}],users:[],interdata:{},messages:[],auth:{user:a,loggedIn:false,strategy:"local"}},serverRendered:b,routePath:"\u002Flogin",config:{http:{browserBaseURL:"\u002F"}}}}(null,true));
