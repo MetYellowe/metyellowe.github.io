@@ -5,6 +5,13 @@
   */
 
 /*!
+ * The buffer module from node.js, for the browser.
+ *
+ * @author   Feross Aboukhadijeh <feross@feross.org> <http://feross.org>
+ * @license  MIT
+ */
+
+/*!
  * Vue.js v2.6.12
  * (c) 2014-2020 Evan You
  * Released under the MIT License.
@@ -36,6 +43,8 @@
  */
 
 /*! MIT License © Sindre Sorhus */
+
+/*! https://mths.be/utf8js v2.1.2 by @mathias */
 
 /**!
  * @fileOverview Kickass library to create and place poppers near their reference elements.
